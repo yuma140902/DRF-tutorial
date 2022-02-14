@@ -5,3 +5,9 @@
 cd tutorial
 python manage.py runserver
 ```
+
+## スーパーユーザ
+
+ユーザ名: admin   
+メール: admin@example.com   
+パスワード: pass  
